@@ -1,5 +1,5 @@
 // Name: Yousef Elgendy
-// Task 5:  FizzBuzz
+// Task 6:  FizzBuzz
 // Description: print number from 1 to 100 and do some operation on it 
 
 for (let i = 1; i <= 100; ++i){
